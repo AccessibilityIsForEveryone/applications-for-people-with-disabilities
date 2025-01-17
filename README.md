@@ -1,4 +1,4 @@
-# Smart Phone Applications to Help Everyday Life for People with Disabilities
+# Smartphone Applications to Help Everyday Life for People with Disabilities
 
 ## People with Visual Impairment
 1. **Be My Eyes** - Help from strangers.
