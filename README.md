@@ -1,11 +1,32 @@
-# Applications to help everyday life for people with disabilities
+# Smart Phone Applications to Help Everyday Life for People with Disabilities
 
-| People with visual impairment | Be My Eyes  \- Help from strangers Seeing AI or Envison AI – AI recognition BlindSquare – GPS/navigation system   AbleRoad \- Locate, rate and review accessible places. AroundMe \- Find out information about your position Curb \- book a ride to your location in three taps of your iPhone. Seeing Assistant \- Route planning, advanced neighborhood scanner, searching for location, where am I functionality  [Seeing Eye GPS](https://itunes.apple.com/us/app/seeing-eye-gps/id668624446?mt=8) \- Turn-by-turn GPS Sendero GPS Look Around \- Announces the current street, city, cross street, heading and nearby points of interest.  |
-| :---- | :---- |
-| People with hearing impairment | Live Transcribe – Instant captions Sound Amplifier – Sound enhancer SoundPrint – Finding quiet places  |
-| People with cognitive impairment or with cognitive diversity | Evin Assist – [Augmentative and Alternative Communication](https://www.asha.org/public/speech/disorders/aac/?srsltid=AfmBOoq6NZU66QUBqYF4CcHIlRROFvn3SRjnufKBLwzUg06a0Nqq6MBj) Proloquo4Text – Text to speech Tappy – Self-care fidgeter  |
-| People with motor disability | Wheelmap – Find accessible places AssistiveTouch – Use phones without fingers  Jabberwocky – Use device with head movement  |
-| People with invisible disability | Curable – Virtual pain coach Medisafe – Medication reminder SuperBetter – Gamified mental health  |
+## People with Visual Impairment
+1. **Be My Eyes** - Help from strangers.
+2. **Seeing AI** or **Envision AI** – AI recognition.
+3. **BlindSquare** – GPS/navigation system.
+4. **AbleRoad** - Locate, rate, and review accessible places.
+5. **AroundMe** - Find out information about your position.
+6. **Curb** - Book a ride to your location in three taps of your iPhone.
+7. **Seeing Assistant** - Route planning, advanced neighborhood scanner, searching for location, "Where am I" functionality.
+8. **Seeing Eye GPS** - Turn-by-turn GPS.
+9. **Sendero GPS Look Around** - Announces the current street, city, cross street, heading, and nearby points of interest.
 
- 
+## People with Hearing Impairment
+1. **Live Transcribe** – Instant captions.
+2. **Sound Amplifier** – Sound enhancer.
+3. **SoundPrint** – Finding quiet places.
 
+## People with Cognitive Impairment or Cognitive Diversity
+1. **Evin Assist** – Augmentative and Alternative Communication.
+2. **Proloquo4Text** – Text to speech.
+3. **Tappy** – Self-care fidgeter.
+
+## People with Motor Disability
+1. **Wheelmap** – Find accessible places.
+2. **AssistiveTouch** – Use phones without fingers.
+3. **Jabberwocky** – Use device with head movement.
+
+## People with Invisible Disability
+1. **Curable** – Virtual pain coach.
+2. **Medisafe** – Medication reminder.
+3. **SuperBetter** – Gamified mental health.
